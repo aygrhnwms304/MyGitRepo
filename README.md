@@ -1,2 +1,2 @@
-#This is the MyGitRepo
-On the Dev
+#This is the MyGitRepo.
+On the master branch. 
